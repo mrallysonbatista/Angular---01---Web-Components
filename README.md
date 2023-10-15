@@ -1,1 +1,1 @@
-Web components activity
+Web components activity using Shadow DOM.
